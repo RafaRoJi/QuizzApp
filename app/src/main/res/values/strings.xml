@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="mensaje_hola">Hello world</string>
+    <string name="texto_pregunta">Aquí va la pregunta</string>
+    <string name="true_button">verdadero</string>
+    <string name="false_button">falso</string>
+    <string name="next_button" >Seguir</string>
+    <string name="next_button">Sguir</string>
+    <string name="PreguntaArt35">Si repruebas una materia, caes en articulo 35</string>
+    <string name="PreguntaExtraordinario">Todas las materias tienen derecho a examen extraordinario</string>
+    <string name="PreguntaLicencia">Puedes solicitar una licencia en cualquier momento del semestre</string>
+    <string name="CambioCarrera">Puedes solicitar cambio de carrera sin volver a hacer examen en la udg</string>
+</resources>

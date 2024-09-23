@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="mensaje_hola">Hola mundo</string>
+    <string name="texto_pregunta">Contesta esto</string>
+    <string name="true_button">cierto</string>
+    <string name="false_button">mentira</string>
+    <string name="next_button">Siguiente</string>
+</resources>
